@@ -91,7 +91,7 @@ docker inspect
 
 docker inspect <containerid/imageid>
 
-docker cp --using this w ecan copy the files from local machine to container and vice versa but not in between the containers 
+docker cp --using this wecan copy the files from local machine to container and vice versa but not in between the containers 
 
 docker cp sourecpath destinationpath
 
